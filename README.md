@@ -4,8 +4,9 @@ open in visual studio this file.
 you must have mongodb and docker setup in your system
 
 <!-- run the project -->
-write comand npm i if here coming then write npm i --force
-then npm run dev
+write comand npm i if here coming error then write npm i --force
+then npm run dev 
+project will start 
 
 <!-- for jest test -->
 connect to mongodb
