@@ -1,4 +1,14 @@
 <!-- How to set up -->
+make the file .env outside in src
+add this in .env file
+
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/category_management
+JWT_SECRET=Dgbbsff145FrhhsjQals
+JWT_EXPIRES_IN=1d
+NODE_ENV=test 
+
+
 download this file as a zip and extract all.
 open in visual studio this file.
 you must have mongodb and docker setup in your system
